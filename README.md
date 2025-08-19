@@ -21,7 +21,7 @@ Interactive console-based menu.
 
 Clone the repo:
 git clone https://github.com/supersanchayrx/Real-Estate-Property-Search.git
-cd <repoLocation>
+cd "repoLocation"
 
 Compile:
 g++ main.cpp Property.cpp PropertyManager.cpp -o RealEstateApp
