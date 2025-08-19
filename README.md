@@ -5,38 +5,28 @@ A minimal machine coding project in C++ that demonstrates object-oriented design
 Users can:
 
 List (add) new properties by entering details (type, location, price, size).
-
 View all properties currently listed.
-
 Search properties by location.
-
 Filter properties by budget range (min–max).
+
 
 🚀 Features
 
 Object-oriented design with multiple classes (Property, PropertyManager).
-
 Uses STL (vector, sort, find_if) for property storage & search.
-
 Modular project structure with headers (.h) and implementation (.cpp).
-
 Interactive console-based menu.
 
 🛠️ Build & Run
 
 Clone the repo:
-
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
-
+git clone https://github.com/supersanchayrx/Real-Estate-Property-Search.git
+cd <repoLocation>
 
 Compile:
-
 g++ main.cpp Property.cpp PropertyManager.cpp -o RealEstateApp
 
-
 Run:
-
 ./RealEstateApp
 
 📖 Example Usage
